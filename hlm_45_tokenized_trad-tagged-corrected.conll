@@ -3635,7 +3635,7 @@
 6	中	_	ADP	IN	_	_	_	_	_
 7	，	_	PUNCT	,	_	_	_	_	_
 8	且	_	ADV	RB	_	_	_	_	_
-9	素日	_	NOUN	NN	_	_	_	_	_
+9	素日	_	NOUN	NN	_	_	_	_	往常
 10	形體	_	NOUN	NN	_	_	_	_	_
 11	嬌弱	_	ADJ	JJ	_	_	_	_	_
 12	，	_	PUNCT	,	_	_	_	_	_
@@ -3811,7 +3811,7 @@
 6	’	_	PUNCT	,	_	_	_	_	_
 7	，	_	PUNCT	,	_	_	_	_	_
 8	你	_	PRON	PRP	_	_	_	_	_
-9	素日	_	ADV	NN	_	_	_	_	往常
+9	素日	_	NOUN	NN	_	_	_	_	往常
 10	吃	_	VERB	VV	_	_	_	_	_
 11	的	_	PART	DEC	_	_	_	_	_
 12	竟	_	ADV	RB	_	_	_	_	_
@@ -3953,7 +3953,7 @@
 18	熬	_	VERB	VV	_	_	_	_	_
 19	出	_	VERB	VV	_	_	_	_	_
 20	粥	_	NOUN	NN	_	_	_	_	_
-21	來	_	ADV	RB	_	_	_	_	_
+21	來	_	VERB	RB	_	_	_	_	_
 22	，	_	VERB	VV	_	_	_	_	_
 23	要	_	AUX	MD	_	_	_	_	_
 24	吃	_	VERB	VV	_	_	_	_	_
@@ -3968,7 +3968,7 @@
 33	最	_	ADV	RB	_	_	_	_	_
 34	是	_	AUX	VC	_	_	_	_	_
 35	滋陰	_	VERB	VV	_	_	_	_	_
-36	補氣	_	NOUN	NN	_	_	_	_	_
+36	補氣	_	VERB	NN	_	_	_	_	_
 37	的	_	X	UH	_	_	_	_	_
 38	。	_	PUNCT	.	_	_	_	_	_
 
@@ -3979,8 +3979,8 @@
 5	：	_	PUNCT	PRP	_	_	_	_	_
 6	“	_	PUNCT	,	_	_	_	_	_
 7	你	_	PRON	PRP	_	_	_	_	_
-8	素日	_	NOUN	NN	_	_	_	_	_
-9	待人	_	ADJ	JJ	_	_	_	_	_
+8	素日	_	NOUN	NN	_	_	_	_	往常
+9	待人	_	VERB	JJ	_	_	_	_	_
 10	，	_	PUNCT	,	_	_	_	_	_
 11	固然	_	ADV	RB	_	_	_	_	_
 12	是	_	AUX	VC	_	_	_	_	_
@@ -3988,7 +3988,7 @@
 14	好	_	ADJ	JJ	_	_	_	_	_
 15	的	_	X	UH	_	_	_	_	_
 16	，	_	PUNCT	,	_	_	_	_	_
-17	然	_	ADJ	JJ	_	_	_	_	_
+17	然	_	ADV	JJ	_	_	_	_	_
 18	我	_	PRON	PRP	_	_	_	_	_
 19	最	_	ADV	RB	_	_	_	_	_
 20	是	_	AUX	VC	_	_	_	_	_
@@ -3997,9 +3997,9 @@
 23	的	_	PART	DEC	_	_	_	_	_
 24	人	_	NOUN	NN	_	_	_	_	_
 25	，	_	PUNCT	,	_	_	_	_	_
-26	只當	_	VERB	VV	_	_	_	_	_
+26	只當	_	VERB	VV	_	_	_	_	認為
 27	你	_	PRON	PRP	_	_	_	_	_
-28	有心	_	VERB	VV	_	_	_	_	_
+28	有心	_	VERB	VV	_	_	_	_	有意
 29	藏奸	_	VERB	VV	_	_	_	_	_
 30	。	_	PUNCT	.	_	_	_	_	_
 
@@ -4008,7 +4008,7 @@
 3	你	_	PRON	PRP	_	_	_	_	_
 4	說	_	VERB	VV	_	_	_	_	_
 5	看	_	VERB	VV	_	_	_	_	_
-6	雜書	_	VERB	VV	_	_	_	_	_
+6	雜書	_	NOUN	VV	_	_	_	_	_
 7	不	_	ADV	RB	_	_	_	_	_
 8	好	_	ADJ	JJ	_	_	_	_	_
 9	，	_	PUNCT	,	_	_	_	_	_
@@ -4016,7 +4016,7 @@
 11	勸	_	VERB	VV	_	_	_	_	_
 12	我	_	PRON	PRP	_	_	_	_	_
 13	那些	_	DET	DT	_	_	_	_	_
-14	好話	_	VERB	VV	_	_	_	_	_
+14	好話	_	NOUN	VV	_	_	_	_	_
 15	，	_	PUNCT	,	_	_	_	_	_
 16	竟	_	ADV	RB	_	_	_	_	_
 17	大	_	ADV	RB	_	_	_	_	_
@@ -4033,13 +4033,13 @@
 7	，	_	PUNCT	,	_	_	_	_	_
 8	實在	_	ADV	RB	_	_	_	_	_
 9	誤	_	VERB	VV	_	_	_	_	_
-10	到	_	VERB	VV	_	_	_	_	_
+10	到	_	ADP	VV	_	_	_	_	_
 11	如今	_	NOUN	NN	_	_	_	_	_
 12	。	_	PUNCT	.	_	_	_	_	_
 
 1	細細	_	ADV	RB	_	_	_	_	_
 2	算	_	VERB	VV	_	_	_	_	_
-3	來	_	ADV	RB	_	_	_	_	_
+3	來	_	VERB	RB	_	_	_	_	_
 4	，	_	VERB	VV	_	_	_	_	_
 5	我	_	PRON	PRP	_	_	_	_	_
 6	母親	_	NOUN	NN	_	_	_	_	_
@@ -4092,7 +4092,7 @@
 10	不	_	ADV	RB	_	_	_	_	_
 11	受用	_	VERB	VV	_	_	_	_	_
 12	；	_	PUNCT	,	_	_	_	_	_
-13	昨兒	_	NOUN	NN	_	_	_	_	_
+13	昨兒	_	NOUN	NN	_	_	_	_	昨天
 14	我	_	PRON	PRP	_	_	_	_	_
 15	親自	_	ADV	RB	_	_	_	_	_
 16	經過	_	ADP	IN	_	_	_	_	_
@@ -4165,7 +4165,7 @@
 9	，	_	PUNCT	,	_	_	_	_	_
 10	雖然	_	ADP	IN	_	_	_	_	_
 11	燕窩	_	NOUN	NN	_	_	_	_	_
-12	易	_	AUX	SFN	_	_	_	_	_
+12	易	_	ADJ	SFN	_	_	_	_	容易
 13	得	_	VERB	VV	_	_	_	_	_
 14	，	_	PUNCT	,	_	_	_	_	_
 15	但	_	ADV	RB	_	_	_	_	_
@@ -4203,7 +4203,7 @@
 47	鬧	_	VERB	VV	_	_	_	_	_
 48	了	_	PART	AS	_	_	_	_	_
 49	個	_	NOUN	NNB	_	_	_	_	_
-50	天翻地覆	_	VERB	VV	_	_	_	_	_
+50	天翻地覆	_	NOUN	VV	_	_	_	_	_
 51	了	_	X	UH	_	_	_	_	_
 52	，	_	PUNCT	,	_	_	_	_	_
 53	這	_	DET	DT	_	_	_	_	_
@@ -4213,7 +4213,7 @@
 57	興	_	VERB	VV	_	_	_	_	_
 58	出	_	VERB	VV	_	_	_	_	_
 59	新文	_	NOUN	NN	_	_	_	_	_
-60	來	_	ADV	RB	_	_	_	_	_
+60	來	_	VERB	RB	_	_	_	_	_
 61	，	_	VERB	VV	_	_	_	_	_
 62	熬	_	VERB	VV	_	_	_	_	_
 63	什麼	_	PRON	WP	_	_	_	_	_
@@ -4248,7 +4248,7 @@
 
 1	你	_	PRON	PRP	_	_	_	_	_
 2	看	_	VERB	VV	_	_	_	_	_
-3	這裏	_	ADJ	VV	_	_	_	_	_
+3	這裏	_	PRON	VV	_	_	_	_	_
 4	這些	_	DET	DT	_	_	_	_	_
 5	人	_	NOUN	NN	_	_	_	_	_
 6	，	_	ADV	RB	_	_	_	_	_
@@ -4258,7 +4258,7 @@
 10	多	_	ADV	RB	_	_	_	_	_
 11	疼	_	VERB	VV	_	_	_	_	_
 12	了	_	PART	AS	_	_	_	_	_
-13	寶玉	_	NOUN	NN	_	_	_	_	_
+13	寶玉	_	PROPN	NN	_	_	_	_	_
 14	和	_	CCONJ	CC	_	_	_	_	_
 15	鳳姐姐	_	NOUN	NN	_	_	_	_	_
 16	兩	_	NUM	CD	_	_	_	_	_
@@ -4268,12 +4268,12 @@
 20	尚	_	ADV	RB	_	_	_	_	_
 21	虎視眈眈	_	VERB	VV	_	_	_	_	_
 22	，	_	PUNCT	,	_	_	_	_	_
-23	背地裏	_	NOUN	NN	_	_	_	_	_
-24	言三語四	_	NOUN	NN	_	_	_	_	_
+23	背地裏	_	ADV	NN	_	_	_	_	_
+24	言三語四	_	VERB	NN	_	_	_	_	_
 25	的	_	PART	DEC	_	_	_	_	_
 26	，	_	NOUN	NN	_	_	_	_	_
-27	何況	_	VERB	VV	_	_	_	_	_
-28	於	_	VERB	VV	_	_	_	_	_
+27	何況	_	ADP	VV	_	_	_	_	_
+28	於	_	ADP	VV	_	_	_	_	_
 29	我	_	PRON	PRP	_	_	_	_	_
 30	?	_	PUNCT	.	_	_	_	_	_
 
@@ -4286,7 +4286,7 @@
 7	主子	_	NOUN	NN	_	_	_	_	_
 8	，	_	PUNCT	,	_	_	_	_	_
 9	原	_	ADV	RB	_	_	_	_	_
-10	是	_	VERB	VC	_	_	_	_	_
+10	是	_	AUX	VC	_	_	_	_	_
 11	無依無靠	_	VERB	VV	_	_	_	_	_
 12	投奔	_	VERB	VV	_	_	_	_	_
 13	了	_	PART	AS	_	_	_	_	_
@@ -4306,7 +4306,7 @@
 3	還	_	ADV	RB	_	_	_	_	_
 4	不知進退	_	VERB	VV	_	_	_	_	_
 5	，	_	PUNCT	,	_	_	_	_	_
-6	何苦	_	VERB	VV	_	_	_	_	_
+6	何苦	_	ADV	VV	_	_	_	_	_
 7	叫	_	VERB	VV	_	_	_	_	_
 8	他們	_	PRON	PRP	_	_	_	_	_
 9	咒	_	VERB	VV	_	_	_	_	_
@@ -4323,7 +4323,7 @@
 8	，	_	PUNCT	,	_	_	_	_	_
 9	我	_	PRON	PRP	_	_	_	_	_
 10	也	_	ADV	RB	_	_	_	_	_
-11	是	_	VERB	VC	_	_	_	_	_
+11	是	_	AUX	VC	_	_	_	_	_
 12	和	_	ADP	IN	_	_	_	_	_
 13	你	_	PRON	PRP	_	_	_	_	_
 14	一樣	_	ADJ	JJ	_	_	_	_	_
@@ -4353,10 +4353,10 @@
 1	這裏	_	NOUN	NN	_	_	_	_	_
 2	又	_	ADV	RB	_	_	_	_	_
 3	有	_	VERB	VV	_	_	_	_	_
-4	買賣	_	VERB	VV	_	_	_	_	_
+4	買賣	_	NOUN	VV	_	_	_	_	_
 5	地土	_	NOUN	NN	_	_	_	_	_
 6	，	_	PART	NN	_	_	_	_	_
-7	家	_	PART	SFN	_	_	_	_	_
+7	家	_	NOUN	SFN	_	_	_	_	_
 8	裏	_	ADP	IN	_	_	_	_	_
 9	又	_	ADV	RB	_	_	_	_	_
 10	仍舊	_	ADV	RB	_	_	_	_	_
@@ -4372,13 +4372,13 @@
 4	的	_	PART	DEC	_	_	_	_	_
 5	情分	_	NOUN	NN	_	_	_	_	_
 6	，	_	VERB	,	_	_	_	_	_
-7	白	_	NOUN	NN	_	_	_	_	_
+7	白	_	ADV	NN	_	_	_	_	_
 8	住	_	VERB	VV	_	_	_	_	_
 9	在	_	ADP	IN	_	_	_	_	_
 10	這裏	_	NOUN	NN	_	_	_	_	_
 11	，	_	PUNCT	,	_	_	_	_	_
-12	一應	_	ADJ	JJ	_	_	_	_	_
-13	大小	_	NOUN	NN	_	_	_	_	_
+12	一應	_	DET	DT	_	_	_	_	一切
+13	大小	_	ADJ	NN	_	_	_	_	_
 14	事情	_	NOUN	NN	_	_	_	_	_
 15	又	_	ADV	RB	_	_	_	_	_
 16	不	_	ADV	RB	_	_	_	_	_
@@ -4395,7 +4395,7 @@
 27	。	_	PUNCT	.	_	_	_	_	_
 
 1	我	_	PRON	PRP	_	_	_	_	_
-2	是	_	VERB	VC	_	_	_	_	_
+2	是	_	AUX	VC	_	_	_	_	_
 3	一無所有	_	VERB	VV	_	_	_	_	_
 4	，	_	PART	NN	_	_	_	_	_
 5	吃穿用度	_	VERB	VV	_	_	_	_	_
@@ -4403,10 +4403,10 @@
 7	一草一木	_	NOUN	NN	_	_	_	_	_
 8	，	_	PUNCT	,	_	_	_	_	_
 9	皆	_	ADV	RB	_	_	_	_	_
-10	是	_	VERB	VC	_	_	_	_	_
+10	是	_	AUX	VC	_	_	_	_	_
 11	和	_	ADP	IN	_	_	_	_	_
 12	他們	_	PRON	PRP	_	_	_	_	_
-13	家	_	PART	NN	_	_	_	_	_
+13	家	_	NOUN	NN	_	_	_	_	_
 14	的	_	PART	DEC	_	_	_	_	_
 15	姑娘	_	NOUN	NN	_	_	_	_	_
 16	一樣	_	ADJ	JJ	_	_	_	_	_
@@ -4430,18 +4430,18 @@
 7	將來	_	NOUN	NN	_	_	_	_	_
 8	也	_	ADV	RB	_	_	_	_	_
 9	不過	_	ADV	RB	_	_	_	_	_
-10	多	_	NUM	CD	_	_	_	_	_
-11	費	_	NOUN	NN	_	_	_	_	_
-12	得	_	VERB	VV	_	_	_	_	_
+10	多	_	ADV	CD	_	_	_	_	_
+11	費	_	VERB	NN	_	_	_	_	_
+12	得	_	PART	DEV	_	_	_	_	_
 13	一	_	NUM	CD	_	_	_	_	_
-14	副	_	PART	PFA	_	_	_	_	_
+14	副	_	NOUN	NNB	_	_	_	_	_
 15	嫁妝	_	NOUN	NN	_	_	_	_	_
 16	罷	_	VERB	VV	_	_	_	_	_
 17	了	_	X	UH	_	_	_	_	_
 18	，	_	PUNCT	,	_	_	_	_	_
 19	如今	_	NOUN	NN	_	_	_	_	_
 20	也	_	ADV	RB	_	_	_	_	_
-21	愁	_	ADV	VV	_	_	_	_	_
+21	愁	_	VERB	VV	_	_	_	_	_
 22	不	_	ADV	RB	_	_	_	_	_
 23	到	_	VERB	VV	_	_	_	_	_
 24	那裏	_	PRON	PRD	_	_	_	_	_
@@ -4451,26 +4451,26 @@
 2	黛玉	_	PROPN	NNP	_	_	_	_	_
 3	聽	_	VERB	VV	_	_	_	_	_
 4	了	_	PART	AS	_	_	_	_	_
-5	不覺	_	NOUN	NN	_	_	_	_	_
+5	不覺	_	ADV	NN	_	_	_	_	_
 6	紅	_	ADJ	JJ	_	_	_	_	_
 7	了	_	PART	AS	_	_	_	_	_
 8	臉	_	NOUN	NN	_	_	_	_	_
 9	，	_	PUNCT	,	_	_	_	_	_
-10	笑	_	NOUN	NN	_	_	_	_	_
+10	笑	_	VERB	NN	_	_	_	_	_
 11	道	_	PART	VV	_	_	_	_	_
 12	：	_	PUNCT	,	_	_	_	_	_
 13	“	_	PUNCT	,	_	_	_	_	_
 14	人家	_	PRON	MD	_	_	_	_	_
 15	把	_	VERB	BB	_	_	_	_	_
 16	你	_	PRON	PRP	_	_	_	_	_
-17	當	_	ADP	IN	_	_	_	_	_
+17	當	_	VERB	IN	_	_	_	_	_
 18	個	_	NOUN	NNB	_	_	_	_	_
 19	正經人	_	NOUN	NN	_	_	_	_	_
 20	，	_	PUNCT	,	_	_	_	_	_
 21	才	_	ADV	RB	_	_	_	_	_
 22	把	_	VERB	BB	_	_	_	_	_
 23	心裏	_	NOUN	NN	_	_	_	_	_
-24	煩難	_	ADV	RB	_	_	_	_	_
+24	煩難	_	NOUN	RB	_	_	_	_	_
 25	告訴	_	VERB	VV	_	_	_	_	_
 26	你	_	PRON	PRP	_	_	_	_	_
 27	聽	_	VERB	VV	_	_	_	_	_
@@ -4485,12 +4485,12 @@
 1	”	_	PROPN	NNP	_	_	_	_	_
 2	寶釵	_	PROPN	NNP	_	_	_	_	_
 3	笑	_	VERB	VV	_	_	_	_	_
-4	道	_	PART	VV	_	_	_	_	_
+4	道	_	VERB	VV	_	_	_	_	_
 5	：	_	PROPN	NNP	_	_	_	_	_
 6	“	_	PUNCT	,	_	_	_	_	_
 7	雖	_	ADP	IN	_	_	_	_	_
 8	是	_	AUX	VC	_	_	_	_	_
-9	取笑兒	_	PROPN	NNP	_	_	_	_	_
+9	取笑兒	_	VERB	NNP	_	_	_	_	_
 10	，	_	PUNCT	,	_	_	_	_	_
 11	卻	_	ADV	RB	_	_	_	_	_
 12	也	_	ADV	RB	_	_	_	_	_
@@ -4503,12 +4503,12 @@
 3	，	_	VERB	VV	_	_	_	_	_
 4	我	_	PRON	PRP	_	_	_	_	_
 5	在	_	ADP	IN	_	_	_	_	_
-6	這裏	_	ADJ	JJ	_	_	_	_	_
+6	這裏	_	PRON	JJ	_	_	_	_	_
 7	一	_	NUM	CD	_	_	_	_	_
 8	日	_	NOUN	NNB	_	_	_	_	_
 9	，	_	PUNCT	,	_	_	_	_	_
 10	我	_	PRON	PRP	_	_	_	_	_
-11	與	_	CCONJ	CC	_	_	_	_	_
+11	與	_	ADP	CC	_	_	_	_	_
 12	你	_	PRON	PRP	_	_	_	_	_
 13	消遣	_	VERB	VV	_	_	_	_	_
 14	一	_	NUM	CD	_	_	_	_	_
@@ -4544,7 +4544,7 @@
 6	，	_	PUNCT	,	_	_	_	_	_
 7	你	_	PRON	PRP	_	_	_	_	_
 8	也	_	ADV	RB	_	_	_	_	_
-9	是	_	VERB	VC	_	_	_	_	_
+9	是	_	AUX	VC	_	_	_	_	_
 10	知道	_	VERB	VV	_	_	_	_	_
 11	的	_	X	UH	_	_	_	_	_
 12	；	_	PUNCT	,	_	_	_	_	_
@@ -4572,7 +4572,7 @@
 4	個	_	NOUN	NNB	_	_	_	_	_
 5	明白人	_	NOUN	NN	_	_	_	_	_
 6	，	_	PUNCT	DEC	_	_	_	_	_
-7	何必	_	NOUN	NN	_	_	_	_	_
+7	何必	_	AUX	NN	_	_	_	_	_
 8	作	_	VERB	VV	_	_	_	_	_
 9	‘	_	VERB	VC	_	_	_	_	_
 10	司馬牛之嘆	_	NOUN	NN	_	_	_	_	_
@@ -4582,22 +4582,22 @@
 1	你	_	PRON	PRP	_	_	_	_	_
 2	才	_	ADV	RB	_	_	_	_	_
 3	說	_	VERB	VV	_	_	_	_	_
-4	的	_	PART	DEC	_	_	_	_	_
+4	的	_	PART	DEV	_	_	_	_	得
 5	也	_	ADV	RB	_	_	_	_	_
 6	是	_	VERB	VC	_	_	_	_	_
 7	，	_	VERB	VV	_	_	_	_	_
-8	多	_	ADV	RB	_	_	_	_	_
+8	多	_	VERB	RB	_	_	_	_	_
 9	一	_	NUM	CD	_	_	_	_	_
 10	事	_	NOUN	NN	_	_	_	_	_
 11	不如	_	VERB	VV	_	_	_	_	_
-12	省	_	NOUN	NN	_	_	_	_	_
+12	省	_	VERB	NN	_	_	_	_	_
 13	一	_	NUM	CD	_	_	_	_	_
 14	事	_	NOUN	NN	_	_	_	_	_
 15	。	_	PUNCT	.	_	_	_	_	_
 
 1	我	_	PRON	PRP	_	_	_	_	_
-2	明日	_	NOUN	NN	_	_	_	_	_
-3	家	_	PART	SFN	_	_	_	_	_
+2	明日	_	NOUN	NN	_	_	_	_	明天
+3	家	_	ADV	SFN	_	_	_	_	_
 4	去	_	ADV	RB	_	_	_	_	_
 5	和	_	ADP	IN	_	_	_	_	_
 6	媽媽	_	NOUN	NN	_	_	_	_	_
@@ -4605,8 +4605,8 @@
 8	了	_	X	UH	_	_	_	_	_
 9	，	_	PUNCT	,	_	_	_	_	_
 10	只	_	ADV	RB	_	_	_	_	_
-11	怕	_	AUX	MD	_	_	_	_	_
-12	燕窩	_	VERB	VV	_	_	_	_	_
+11	怕	_	VERB	MD	_	_	_	_	_
+12	燕窩	_	NOUN	VV	_	_	_	_	_
 13	我們	_	PRON	PRP	_	_	_	_	_
 14	家	_	NOUN	NN	_	_	_	_	_
 15	裏	_	ADP	IN	_	_	_	_	_
@@ -4617,7 +4617,7 @@
 20	你	_	PRON	PRP	_	_	_	_	_
 21	送	_	VERB	VV	_	_	_	_	_
 22	幾	_	NUM	CD	_	_	_	_	_
-23	兩	_	NUM	CD	_	_	_	_	_
+23	兩	_	NOUN	NNB	_	_	_	_	_
 24	。	_	PUNCT	.	_	_	_	_	_
 
 1	每日	_	DET	DT	_	_	_	_	_
@@ -4639,31 +4639,31 @@
 
 1	”	_	PROPN	NNP	_	_	_	_	_
 2	黛玉	_	PROPN	NNP	_	_	_	_	_
-3	忙	_	VERB	VV	_	_	_	_	_
-4	笑	_	ADJ	JJ	_	_	_	_	_
+3	忙	_	ADV	VV	_	_	_	_	_
+4	笑	_	VERB	JJ	_	_	_	_	_
 5	道	_	VERB	VV	_	_	_	_	_
 6	：	_	PUNCT	,	_	_	_	_	_
 7	“	_	PART	DEC	_	_	_	_	_
 8	東西	_	NOUN	NN	_	_	_	_	_
 9	是	_	AUX	VC	_	_	_	_	_
-10	小	_	PART	PFA	_	_	_	_	_
+10	小	_	ADJ	PFA	_	_	_	_	_
 11	，	_	NOUN	NN	_	_	_	_	_
 12	難得	_	VERB	VV	_	_	_	_	_
 13	你	_	PRON	PRP	_	_	_	_	_
-14	多情	_	NOUN	NN	_	_	_	_	_
-15	如此	_	VERB	VV	_	_	_	_	_
+14	多情	_	ADJ	NN	_	_	_	_	_
+15	如此	_	ADV	VV	_	_	_	_	_
 16	。	_	PUNCT	.	_	_	_	_	_
 
 1	”	_	VERB	VV	_	_	_	_	_
 2	寶釵	_	PROPN	NNP	_	_	_	_	_
-3	道	_	PART	SFN	_	_	_	_	_
+3	道	_	VERB	SFN	_	_	_	_	_
 4	：	_	NOUN	NN	_	_	_	_	_
 5	“	_	PUNCT	,	_	_	_	_	_
 6	這	_	PRON	PRD	_	_	_	_	_
 7	有	_	VERB	VV	_	_	_	_	_
 8	什麼	_	PRON	WP	_	_	_	_	_
 9	放	_	VERB	VV	_	_	_	_	_
-10	在	_	VERB	VV	_	_	_	_	_
+10	在	_	ADP	VV	_	_	_	_	_
 11	嘴	_	NOUN	NN	_	_	_	_	_
 12	裏	_	ADP	NN	_	_	_	_	_
 13	的	_	X	UH	_	_	_	_	_
@@ -4718,12 +4718,12 @@
 7	了	_	PART	AS	_	_	_	_	_
 8	，	_	PRON	NNP	_	_	_	_	_
 9	不	_	ADV	RB	_	_	_	_	_
-10	在	_	VERB	VV	_	_	_	_	_
-11	話	_	NOUN	NN	_	_	_	_	_
-12	下	_	ADP	IN	_	_	_	_	_
+10	在	_	ADV	VV	_	_	_	_	_
+11	話	_	VERB	NN	_	_	_	_	_
+12	下	_	VERB	IN	_	_	_	_	_
 13	。	_	PUNCT	.	_	_	_	_	_
 
-1	這裏	_	ADJ	JJ	_	_	_	_	_
+1	這裏	_	PRON	JJ	_	_	_	_	_
 2	黛玉	_	NOUN	NN	_	_	_	_	_
 3	喝	_	VERB	VV	_	_	_	_	_
 4	了	_	PART	AS	_	_	_	_	_
@@ -4739,8 +4739,8 @@
 14	。	_	PUNCT	.	_	_	_	_	_
 
 1	不	_	ADV	RB	_	_	_	_	_
-2	想	_	AUX	MD	_	_	_	_	_
-3	日	_	PROPN	NNP	_	_	_	_	_
+2	想	_	VERB	MD	_	_	_	_	_
+3	日	_	NOUN	NNP	_	_	_	_	_
 4	未	_	ADV	RB	_	_	_	_	_
 5	落	_	VERB	VV	_	_	_	_	_
 6	時	_	ADP	IN	_	_	_	_	_
@@ -4750,8 +4750,8 @@
 10	變	_	VERB	VV	_	_	_	_	_
 11	了	_	PART	UH	_	_	_	_	_
 12	，	_	PUNCT	,	_	_	_	_	_
-13	淅淅瀝瀝	_	NOUN	NN	_	_	_	_	_
-14	下	_	ADP	IN	_	_	_	_	_
+13	淅淅瀝瀝	_	VERB	NN	_	_	_	_	_
+14	下	_	VERB	IN	_	_	_	_	_
 15	起	_	VERB	VV	_	_	_	_	_
 16	雨	_	NOUN	NN	_	_	_	_	_
 17	來	_	VERB	VV	_	_	_	_	_
@@ -4763,24 +4763,24 @@
 4	，	_	PUNCT	,	_	_	_	_	_
 5	那天	_	NOUN	NN	_	_	_	_	_
 6	漸漸	_	ADV	RB	_	_	_	_	_
-7	的	_	PART	DEC	_	_	_	_	_
+7	的	_	PART	DEV	_	_	_	_	地
 8	黃昏	_	NOUN	NN	_	_	_	_	_
 9	時候	_	NOUN	NN	_	_	_	_	_
 10	了	_	X	UH	_	_	_	_	_
 11	，	_	PUNCT	,	_	_	_	_	_
 12	且	_	CCONJ	CC	_	_	_	_	_
 13	陰	_	ADJ	JJ	_	_	_	_	_
-14	的	_	PART	DEC	_	_	_	_	_
-15	沈黑	_	NOUN	NN	_	_	_	_	_
+14	的	_	PART	DEV	_	_	_	_	得
+15	沈黑	_	ADJ	NN	_	_	_	_	_
 16	，	_	PUNCT	,	_	_	_	_	_
-17	兼	_	CCONJ	CC	_	_	_	_	_
+17	兼	_	VERB	CC	_	_	_	_	_
 18	著	_	PART	AS	_	_	_	_	_
 19	那	_	DET	DT	_	_	_	_	_
 20	雨滴	_	NOUN	NN	_	_	_	_	_
 21	竹梢	_	NOUN	NN	_	_	_	_	_
 22	，	_	PUNCT	,	_	_	_	_	_
 23	更	_	ADV	RB	_	_	_	_	_
-24	覺	_	ADV	RB	_	_	_	_	_
+24	覺	_	VERB	RB	_	_	_	_	_
 25	淒涼	_	ADJ	JJ	_	_	_	_	_
 26	。	_	PUNCT	.	_	_	_	_	_
 
@@ -4809,31 +4809,31 @@
 23	，	_	ADV	RB	_	_	_	_	_
 24	有	_	VERB	VV	_	_	_	_	_
 25	《	_	PUNCT	(	_	_	_	_	_
-26	秋閨怨	_	NOUN	NN	_	_	_	_	_
+26	秋閨怨	_	PROPN	NN	_	_	_	_	_
 27	》	_	PUNCT	)	_	_	_	_	_
 28	、	_	PUNCT	EC	_	_	_	_	_
 29	《	_	PUNCT	(	_	_	_	_	_
-30	別離怨	_	NOUN	NN	_	_	_	_	_
+30	別離怨	_	PROPN	NN	_	_	_	_	_
 31	》	_	PUNCT	)	_	_	_	_	_
 32	等	_	NOUN	NN	_	_	_	_	_
 33	詞	_	NOUN	NN	_	_	_	_	_
 34	。	_	PUNCT	.	_	_	_	_	_
 
 1	黛玉	_	NOUN	NN	_	_	_	_	_
-2	不覺	_	ADJ	JJ	_	_	_	_	_
-3	心	_	PART	SFN	_	_	_	_	_
+2	不覺	_	ADV	JJ	_	_	_	_	_
+3	心	_	NOUN	SFN	_	_	_	_	_
 4	有	_	VERB	VV	_	_	_	_	_
 5	所感	_	NOUN	NN	_	_	_	_	_
 6	，	_	PUNCT	,	_	_	_	_	_
 7	不禁	_	ADV	RB	_	_	_	_	_
 8	發	_	VERB	VV	_	_	_	_	_
-9	於	_	VERB	VV	_	_	_	_	_
+9	於	_	ADP	VV	_	_	_	_	_
 10	章句	_	NOUN	NN	_	_	_	_	_
 11	，	_	PUNCT	,	_	_	_	_	_
 12	遂	_	ADV	RB	_	_	_	_	_
 13	成	_	VERB	VV	_	_	_	_	_
 14	《	_	PUNCT	(	_	_	_	_	_
-15	代別離	_	NOUN	NN	_	_	_	_	_
+15	代別離	_	PROPN	NN	_	_	_	_	_
 16	》	_	PUNCT	)	_	_	_	_	_
 17	一	_	NUM	CD	_	_	_	_	_
 18	首	_	NOUN	NNB	_	_	_	_	_
@@ -4845,13 +4845,13 @@
 24	之	_	PART	DEC	_	_	_	_	_
 25	格	_	NOUN	NN	_	_	_	_	_
 26	，	_	PUNCT	,	_	_	_	_	_
-27	乃	_	VERB	VV	_	_	_	_	_
+27	乃	_	ADV	VV	_	_	_	_	_
 28	名	_	VERB	VV	_	_	_	_	_
 29	其	_	PRON	PRP	_	_	_	_	_
 30	詞	_	NOUN	NN	_	_	_	_	_
-31	為	_	AUX	VC	_	_	_	_	_
+31	為	_	ADP	VC	_	_	_	_	_
 32	《	_	PUNCT	(	_	_	_	_	_
-33	秋窗風雨夕	_	NOUN	NN	_	_	_	_	_
+33	秋窗風雨夕	_	PROPN	NN	_	_	_	_	_
 34	》	_	PUNCT	)	_	_	_	_	_
 35	。	_	PUNCT	.	_	_	_	_	_
 
@@ -4911,7 +4911,7 @@
 3	已教淚灑窗紗濕	_	NOUN	NN	_	_	_	_	_
 4	。	_	PUNCT	.	_	_	_	_	_
 
-1	吟	_	PROPN	NNP	_	_	_	_	_
+1	吟	_	VERB	NNP	_	_	_	_	_
 2	罷	_	VERB	VV	_	_	_	_	_
 3	擱	_	VERB	VV	_	_	_	_	_
 4	筆	_	NOUN	NN	_	_	_	_	_
@@ -4920,8 +4920,8 @@
 7	欲	_	AUX	MD	_	_	_	_	_
 8	安寢	_	VERB	VV	_	_	_	_	_
 9	，	_	PUNCT	,	_	_	_	_	_
-10	丫鬟	_	VERB	NN	_	_	_	_	_
-11	報	_	PART	SFN	_	_	_	_	_
+10	丫鬟	_	NOUN	NN	_	_	_	_	_
+11	報	_	VERB	SFN	_	_	_	_	_
 12	說	_	VERB	VV	_	_	_	_	_
 13	：	_	PUNCT	,	_	_	_	_	_
 14	“	_	ADV	RB	_	_	_	_	_
@@ -4943,7 +4943,7 @@
 11	上	_	ADP	IN	_	_	_	_	_
 12	戴	_	VERB	VV	_	_	_	_	_
 13	著	_	PART	AS	_	_	_	_	_
-14	大	_	PART	PFA	_	_	_	_	_
+14	大	_	ADJ	PFA	_	_	_	_	_
 15	箬笠	_	NOUN	NN	_	_	_	_	_
 16	，	_	PART	DEC	_	_	_	_	_
 17	身	_	NOUN	NN	_	_	_	_	_
@@ -4952,6 +4952,8 @@
 20	著	_	PART	AS	_	_	_	_	_
 21	蓑衣	_	NOUN	NN	_	_	_	_	_
 22	。	_	PUNCT	.	_	_	_	_	_
+
+untilhere
 
 1	黛玉	_	PROPN	NN	_	_	_	_	_
 2	不覺	_	ADV	VV	_	_	_	_	_
