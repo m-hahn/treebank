@@ -1,0 +1,7 @@
+~/scr/CODE/deps/python27 main.py --save_dir /u/scr/mhahn/TEMP_TEST_PARSER/Chinese/Chinese-Tagger parse /u/scr/mhahn/CORPORA/chinese-gigaword-2.0/cna_cmn_cna_cmn_199101.zip.conllu --pretrained_vocab max_rank=500
+
+
+export PATH=/usr/local/cuda-10.0/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda-10.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+
+
