@@ -1,3 +1,5 @@
+
+
 import zipfile
 import io
 import os
@@ -5,6 +7,8 @@ import os
 encoding = "utf8"
 path = "/u/scr/corpora/ldc/2009/LDC2009T14/data/"
 counter = 1
+# TODO take into account,xin_cmn uses simplified characters. Have to convert before feeding into parser.
+
 for subdir in ["cna_cmn"]: #, "xin_cmn", "zbn_cmn"]:
    files = os.listdir(path+subdir)
    filecounter = 0

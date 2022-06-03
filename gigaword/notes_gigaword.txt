@@ -4,4 +4,17 @@
 export PATH=/usr/local/cuda-10.0/bin${PATH:+:${PATH}}
 export LD_LIBRARY_PATH=/usr/local/cuda-10.0/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
 
+~/scr/CODE/deps/python27 main.py --save_dir /u/scr/mhahn/TEMP_TEST_PARSER/Chinese/Chinese-Parser parse /u/scr/mhahn/CORPORA/chinese-gigaword-2.0/cna_cmn_cna_cmn_199101.zip.conllu --pretrained_vocab max_rank=1000000
+
+
+# Even this doesn't work
+~/scr/CODE/deps/python27 main.py --save_dir /u/scr/mhahn/TEMP_TEST_PARSER/Chinese/Chinese-Parser parse /u/scr/mhahn/CORPORA/chinese-gigaword-2.0/cna_cmn_cna_cmn_200110.zip.conllu --pretrained_vocab max_rank=10
+
+
+
+
+~/scr/CODE/deps/python27 main.py --save_dir /u/scr/mhahn/TEMP_TEST_PARSER/Chinese/Chinese-Parser parse /u/scr/mhahn/CORPORA/chinese-gigaword-2.0-split/* --pretrained_vocab max_rank=1000000
+
+
+
 
